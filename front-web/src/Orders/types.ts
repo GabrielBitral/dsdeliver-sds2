@@ -12,7 +12,7 @@ export type OrderLocationData = {
     address: string;
 }
 
-type ProductId ={
+type ProductId = {
     id: number;
 }
 
